@@ -38,13 +38,6 @@ Senior Software Engineer with a focus on scalable backend systems and modern web
 
 ---
 
-### GitHub Stats
-
-![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=avemedda&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avemedda&layout=compact&hide_border=true)
-
----
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matteomedda)
